@@ -190,3 +190,6 @@ app_license = "MIT"
 # auth_hooks = [
 #	"demo.auth.validate"
 # ]
+fixtures = [
+    "Student",
+]

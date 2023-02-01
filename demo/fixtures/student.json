@@ -1,0 +1,20 @@
+[
+ {
+  "address": "sangli",
+  "docstatus": 0,
+  "doctype": "Student",
+  "mob_no": "+91-8983607969",
+  "modified": "2023-01-31 17:54:45.548046",
+  "name": "shweta-01",
+  "name1": "shwet"
+ },
+ {
+  "address": "Tanang",
+  "docstatus": 0,
+  "doctype": "Student",
+  "mob_no": "+91-9999999999",
+  "modified": "2023-02-01 17:46:28.120965",
+  "name": "Rakesh-02",
+  "name1": "Rakesh"
+ }
+]
